@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1453840633 source:c:\projects\c++\wessels_jackson_lab5\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"bag.h"
+
+1453839801 source:c:\projects\c++\wessels_jackson_lab5\src\bag.cpp
+	<algorithm>
+	<cassert>
+	"bag.h"
+
+1453840734 c:\projects\c++\wessels_jackson_lab5\include\bag.h
+	<cstdlib>
+
+1454447421 source:c:\projects\c++\wessels_jackson_lab7\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"bag.h"
+	"time.h"
+
+1454447911 c:\projects\c++\wessels_jackson_lab7\include\bag.h
+	<cstdlib>
+
+1454447483 source:c:\projects\c++\wessels_jackson_lab7\src\bag.cpp
+	<algorithm>
+	<cassert>
+	"bag.h"
+

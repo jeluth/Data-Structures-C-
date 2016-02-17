@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1453409492 source:c:\projects\c++\wessels_jackson_lab4\main.cpp
+	<iostream>
+	"throttle.h"
+	"point.h"
+
+1453410784 source:c:\projects\c++\wessels_jackson_lab4\throttle.cpp
+	<cassert>
+	"throttle.h"
+
+1453411565 c:\projects\c++\wessels_jackson_lab4\throttle.h
+
+1453411621 c:\projects\c++\wessels_jackson_lab4\point.h
+
+1453411621 source:c:\projects\c++\wessels_jackson_lab4\point.cpp
+	"point.h"
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1454385025 source:c:\projects\c++\wessels_jackson_hw2\main.cpp
+	<iostream>
+	<cstdlib>
+	"point.h"
+	"account.h"
+
+1454369769 c:\projects\c++\wessels_jackson_hw2\include\point.h
+
+1454371647 source:c:\projects\c++\wessels_jackson_hw2\src\point.cpp
+	<iostream>
+	"point.h"
+	"math.h"
+	"assert.h"
+	"string.h"
+
+1454376557 source:c:\projects\c++\wessels_jackson_hw2\src\account.cpp
+	"account.h"
+
+1454378253 c:\projects\c++\wessels_jackson_hw2\include\account.h
+
+1454385697 source:c:\projects\c++\wessels_jackson_hw2\src\complexnumb.cpp
+	"complexNumb.h"
+
+1454385601 c:\projects\c++\wessels_jackson_hw2\include\complexnumb.h
+

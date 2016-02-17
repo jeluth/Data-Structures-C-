@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1455224810 source:c:\projects\c++\wessels_jackson_lab10\bag.cpp
+	<cstdlib>
+	<cassert>
+	"bag.h"
+	"node1.h"
+
+1455224641 c:\projects\c++\wessels_jackson_lab10\bag.h
+	<cstdlib>
+	"node1.h"
+
+1454973884 c:\projects\c++\wessels_jackson_lab10\node1.h
+	<cstdlib>
+
+1455222916 source:c:\projects\c++\wessels_jackson_lab10\main.cpp
+	"bag.h"
+	"node1.h"
+	<iostream>
+
+1454973884 source:c:\projects\c++\wessels_jackson_lab10\node1.cpp
+	"node1.h"
+	<cassert>
+	<cstdlib>
+

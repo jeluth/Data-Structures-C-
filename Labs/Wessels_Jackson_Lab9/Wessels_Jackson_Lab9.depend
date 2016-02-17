@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1454973884 source:c:\projects\c++\wessels_jackson_lab9\node1.cpp
+	"node1.h"
+	<cassert>
+	<cstdlib>
+
+1454973884 c:\projects\c++\wessels_jackson_lab9\node1.h
+	<cstdlib>
+
+1455051109 source:c:\projects\c++\wessels_jackson_lab9\main.cpp
+	<iostream>
+	"node1.h"
+

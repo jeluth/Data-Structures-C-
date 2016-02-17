@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1454614952 source:c:\projects\c++\wessels_jackson_hw3\main.cpp
+	<cctype>
+	<iostream>
+	<cstdlib>
+	"sequence.h"
+
+1454814678 source:c:\projects\c++\wessels_jackson_hw3\src\sequence.cpp
+	"cassert"
+	"sequence.h"
+
+1454614078 c:\projects\c++\wessels_jackson_hw3\include\sequence.h
+	<cstdlib>
+
